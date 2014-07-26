@@ -1,0 +1,15 @@
+{
+  "name": "maleo-js",
+  "version": "0.0.1",
+  "description": "Maleo, an HTML5 application runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Anwari <mdamt@mdamt.net>",
+  "license": "MIT",
+  "dependencies": {
+    "exo_browser": "^0.6.9",
+    "sax": "^0.6.0"
+  }
+}
